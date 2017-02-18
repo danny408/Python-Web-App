@@ -2,4 +2,4 @@
 Python + Flask Web App Deployed W/ Heroku
 
 
-WWW.Flask.Nevinyrral.Com
+www.Flask.Nevinyrral.Com
